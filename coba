@@ -1,1 +1,3 @@
-
+bot = getBot()
+bot:say("SCRIPT EXPIRED PLEASE BUY TO KINGTOPIA")
+sleep(3000)
